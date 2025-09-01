@@ -1,4 +1,4 @@
-from stats import get_book_text, get_book_word_count
+from stats import get_book_text, get_book_word_count, get_letter_counts
 
 
 def main():
